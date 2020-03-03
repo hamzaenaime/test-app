@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb42b479-2b68-4bbd-9416-a619e0008d2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sqli/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sqli/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,5 +63,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="711" y="149" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583166593359" />
+    <state x="1092" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583223447087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1092" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583223447087" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583223509251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583223509251" />
   </component>
 </project>
